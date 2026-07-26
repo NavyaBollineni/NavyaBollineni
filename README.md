@@ -93,7 +93,6 @@ When I'm not coding, you'll usually find me exploring new technologies, working 
 - 📜 **DBMS** — *Spoken Tutorial*
 - 🏆 **Java Programming Internship** — *Excler*
 - 🏆 **Power BI Internship** — *Slash Mark*
-- 🌸 **JLPT N3** — *Japan Foundation*
 
 </details>
 
