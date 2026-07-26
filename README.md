@@ -10,7 +10,7 @@
 
   <!-- Dynamic Typing Title -->
   <a href="https://github.com/NavyaBollineni">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=60&lines=Konnichiwa!+I'm+Bollineni+Navya+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Graduate;Building+Intelligent+Software;Taking+JLPT+N3+this+Dec" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=60&lines=Konnichiwa!+I'm+Bollineni+Navya+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Graduate;Building+Intelligent+Software" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -75,38 +75,25 @@ When I'm not coding, you'll usually find me exploring new technologies, working 
 
 ---
 
-## 🏫 **3. College Management System**
-### Developed a Java + HTML college management system streamlining the student admission process end-to-end.
-* 🛠️ **Tech Stack**: `Java` • `HTML` • `MySQL` • `OOP`
-
----
-
-## 🌸 **4. Volunteer Japanese Classes Website** *(In Progress)* 🇯🇵
+## 🌸 **3. Volunteer Japanese Classes Website** *(In Progress)* 🇯🇵
 ### Designing and developing a web platform requested by my Japanese sensei to organize, manage, and promote free volunteer Japanese language classes.
 * 🛠️ **Tech Stack**: `HTML5` • `CSS3` • `JavaScript`
 
 ---
 
-## 📊 **5. Power BI Business Dashboard**
-### Designed interactive data visualization dashboards analyzing business metrics and financial KPIs.
-* 🛠️ **Tech Stack**: `Power BI` • `SQL` • `Data Modeling`
-
----
-
 # 📜 Certifications & Achievements
 
-<details open>
-<summary><h4><b>👉 CLICK HERE TO VIEW MY CERTIFICATIONS & ACHIEVEMENTS</b></h4></summary>
+<details>
+<summary><b>👉 Click to view my Certifications & Achievements</b></summary>
 <br/>
 
-# 🎓 **Certifications List**
-* ## 📜 **Big Data and Hadoop** — *edX*
-* ## 📜 **The Joy of Computing Using Python** — *NPTEL*
-* ## 📜 **Java Programming** — *Spoken Tutorial*
-* ## 📜 **DBMS** — *Spoken Tutorial*
-* ## 🏆 **Java Programming Internship** — *Excler*
-* ## 🏆 **Power BI Internship** — *Slash Mark*
-* ## 🌸 **JLPT N3 (Taking this Dec)** — *Japan Foundation*
+- 📜 **Big Data and Hadoop** — *edX*
+- 📜 **The Joy of Computing Using Python** — *NPTEL*
+- 📜 **Java Programming** — *Spoken Tutorial*
+- 📜 **DBMS** — *Spoken Tutorial*
+- 🏆 **Java Programming Internship** — *Excler*
+- 🏆 **Power BI Internship** — *Slash Mark*
+- 🌸 **JLPT N3** — *Japan Foundation*
 
 </details>
 
