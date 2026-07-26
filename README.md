@@ -96,7 +96,7 @@ When I'm not coding, you'll usually find me exploring new technologies, working 
 # 📜 Certifications & Achievements
 
 <details open>
-<summary><h2><b>👉 CLICK HERE TO VIEW MY CERTIFICATIONS & ACHIEVEMENTS</b></h2></summary>
+<summary><h4><b>👉 CLICK HERE TO VIEW MY CERTIFICATIONS & ACHIEVEMENTS</b></h4></summary>
 <br/>
 
 # 🎓 **Certifications List**
