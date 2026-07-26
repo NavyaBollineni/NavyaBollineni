@@ -16,84 +16,88 @@
     <img src="https://komarev.com/ghpvc/?username=NavyaBollineni&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
   </p>
 
-  <p align="center">
-    <i>"Aspiring Software Developer and Data Analyst specializing in AI, Machine Learning, Java, Python, and Data Visualization."</i>
-  </p>
-
 </div>
 
 ---
 
-### 🌸 日本語プロフィール / Japanese & Profile Overview
+### 🌟 About Me
 
-- 🎓 **Education**: **B.Tech in Artificial Intelligence & Data Science** (2021 – 2025) | **CGPA: 8.96**
-- 🇯🇵 **Japanese Language Proficiency**:
-  - **JLPT N4 Passed** 🏅 *(Studying continuously since March 2024)*
-  - **JLPT N3 Preparing** 🎯 *(Appearing in December)*
-  - Currently building a **Volunteer Japanese Classes Website** requested by my Japanese sensei!
-- 💼 **Internships Completed**:
-  - **Java Programming Intern** @ *Excler* (Certified Core Java & OOP)
-  - **Power BI Data Visualization Intern** @ *Slash Mark* (Certified Dashboarding & Analytics)
-- 🎯 **Career Goal**: Seeking **Software Developer**, **Full-Stack Engineer**, or **Data Analyst** roles in **Japan 🇯🇵** and globally.
+I'm a recent B.Tech graduate in Artificial Intelligence & Data Science with a strong interest in Artificial Intelligence, Full-Stack Development, and modern software engineering.
+
+I enjoy building practical solutions that solve real-world problems while continuously learning new technologies. My experience includes working with Python, Java, SQL, HTML, CSS, Power BI, and machine learning concepts, and I'm currently expanding my skills in full-stack web development, Git, GitHub, and AI-powered applications.
+
+Beyond software development, I'm also learning Japanese (JLPT) and building projects that combine technology with education. I believe the best way to grow as a developer is by consistently building, experimenting, and improving every day.
+
+I'm actively seeking opportunities where I can contribute, learn from experienced engineers, and develop scalable, user-focused applications. My long-term goal is to build innovative AI solutions and pursue a software engineering career in Japan.
+
+When I'm not coding, you'll usually find me exploring new technologies, working on personal projects, improving my Japanese language skills, or learning something new that helps me become a better developer.
 
 ---
 
 ### 🛠️ Technical Skills & Ecosystem
 
-<table>
-  <tr>
-    <td align="center" width="28%"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Data & Analytics</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/XGBoost-2F343B?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Data_Visualization-06B6D4?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI & Developer Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=flat-square&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| 💻 **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| 🌐 **Frontend Development** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| 📊 **Data & Analytics** | <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/XGBoost-2F343B?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> |
+| 🧠 **AI & Developer Tools** | <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" /> |
+
+</div>
 
 ---
 
 ### 🚀 Featured Engineering & AI Projects
 
-| Project | Key Technologies | Description & Impact |
-| :--- | :--- | :--- |
-| 🤖 **[AI Career-Assistant Chatbot](https://github.com/NavyaBollineni)** | Python, GenAI, Multimodal Vision, PDF QA | Built a personal generative-AI chatbot featuring text-to-image generation, persistent memory, PDF & image comprehension, and multi-turn conversational follow-ups. |
-| 🚂 **[ML for Railway Safety Reform](https://github.com/NavyaBollineni)** | Python, XGBoost, Data Analytics | Engineered an XGBoost Machine Learning model trained on **1902–2024 Indian Railways accident data** to identify key risk factors and drive data-backed safety reforms. |
-| 🌸 **[Volunteer Japanese Classes Website](https://github.com/NavyaBollineni)** | HTML, CSS, JavaScript | *(In Progress)* Developing a web platform requested by my Japanese sensei to organize and promote free volunteer Japanese language classes. |
-| 🏫 **[College Management System](https://github.com/NavyaBollineni)** | Java, HTML, MySQL | Built an end-to-end college management web application to streamline student admissions and record processing. |
-| 📊 **[Power BI Business Dashboard](https://github.com/NavyaBollineni/PowerBI_Basic)** | Power BI, SQL, Data Modeling | Designed interactive dashboards displaying business metrics, financial KPIs, and trend analysis. |
+> Here are some of the key projects I have built, spanning Artificial Intelligence, Machine Learning, Data Analytics, and Web Applications:
+
+#### 🤖 **1. AI Career-Assistant Chatbot**
+* 🎯 **Overview**: Built a personal generative-AI chatbot with image generation, persistent memory, PDF/image comprehension, and multi-turn follow-up question handling.
+* 🛠️ **Tech Stack**: `Python` • `Generative AI APIs` • `Multimodal Vision` • `Streamlit`
+* 💡 **Key Features**: Text-to-image generation, PDF text extraction & QA, conversational context memory, intelligent follow-up suggestions.
+
+---
+
+#### 🚂 **2. Machine Learning for Railway Safety**
+* 🎯 **Overview**: Developed an XGBoost predictive machine learning model trained on **1902–2024 Indian Railways accident data** to identify key risk factors and support data-driven safety reforms.
+* 🛠️ **Tech Stack**: `Python` • `XGBoost` • `Pandas` • `Data Analytics`
+* 💡 **Key Features**: High accuracy risk classification, feature importance analysis, data-driven safety insights.
+
+---
+
+#### 🌸 **3. Volunteer Japanese Classes Website** *(In Progress)* 🇯🇵
+* 🎯 **Overview**: Designing and developing a web platform requested by my Japanese sensei to organize, manage, and promote free volunteer Japanese language classes.
+* 🛠️ **Tech Stack**: `HTML5` • `CSS3` • `JavaScript`
+* 💡 **Key Features**: Responsive course schedules, student registration portal, community announcements.
+
+---
+
+#### 🏫 **4. College Management System**
+* 🎯 **Overview**: Built a Java + HTML college management system streamlining student admission processing end-to-end.
+* 🛠️ **Tech Stack**: `Java` • `HTML` • `MySQL` • `OOP`
+* 💡 **Key Features**: Student registration, admission record tracking, database connectivity.
+
+---
+
+#### 📊 **5. Power BI Business Intelligence Dashboard**
+* 🎯 **Overview**: Created interactive data visualization dashboards analyzing business metrics and financial KPIs.
+* 🛠️ **Tech Stack**: `Power BI` • `SQL` • `Data Modeling`
+* 💡 **Key Features**: Executive KPI cards, trend visualization, dynamic filtering.
 
 ---
 
 ### 📜 Certifications & Achievements
 
-- 🎓 **B.Tech AI & Data Science**: Annamacharya Institute of Technology and Sciences (CGPA: **8.96**)
-- 🏆 **Java Programming Internship Certification**: Excler
-- 🏆 **Power BI Internship Certification**: Slash Mark
-- 📜 **Java Programming Certification**: Spoken Tutorial
-- 📜 **DBMS Certification**: Spoken Tutorial
-- 🌸 **JLPT N4 Certificate**: Japan Foundation / Japanese Language Proficiency Test
+- 🎓 **B.Tech, Artificial Intelligence & Data Science**: Annamacharya Institute of Technology and Sciences (*CGPA: 8.96*)
+- 📜 **Big Data and Hadoop**: *edX*
+- 📜 **The Joy of Computing Using Python**: *NPTEL*
+- 📜 **Java Programming**: *Spoken Tutorial*
+- 📜 **DBMS**: *Spoken Tutorial*
+- 🏆 **Java Programming Internship**: *Excler*
+- 🏆 **Power BI Internship**: *Slash Mark*
+- 🌸 **JLPT N4 Certificate**: *Japan Foundation / Japanese Language Proficiency Test*
 
 ---
 
@@ -111,5 +115,5 @@
 ---
 
 <div align="center">
-  <p><i>よろしくお願いいたします (Yoroshiku Onegaishimasu) • Designed with ❤️ for Japanese & Global Tech Engineering Opportunities</i></p>
+  <p><i>よろしくお願いいたします (Yoroshiku Onegaishimasu) • Designed with ❤️ for AI Innovation, Full-Stack Development & Japan Tech Opportunities</i></p>
 </div>
