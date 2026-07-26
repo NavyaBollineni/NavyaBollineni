@@ -10,7 +10,7 @@
 
   <!-- Dynamic Typing Title -->
   <a href="https://github.com/NavyaBollineni">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=60&lines=Konnichiwa!+I'm+Bollineni+Navya+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Graduate;Building+Intelligent+Software;Taking+JLPT+N3+this+Dec+%F0%9F%8F5%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=750&height=60&lines=Konnichiwa!+I'm+Bollineni+Navya+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Graduate;Building+Intelligent+Software;Taking+JLPT+N3+this+Dec" alt="Typing SVG" />
   </a>
 
   <p align="center">
